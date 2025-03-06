@@ -1,3 +1,8 @@
+/*
+* Author : Paulz
+* Date : 06/03/2024
+* Objectif : filter bad word
+*/
 #include <iostream>
 #include <vector>
 #include <string>
